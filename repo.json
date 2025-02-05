@@ -1,9 +1,8 @@
-
 {
   "repo": {
     "name": "My IPTV Repo",
     "version": "1.0",
-    "url": "https://github.com/your-username/cloud-stream-iptv-extension",
+    "url": "https://github.com/ZUBAYRALY/IPTV",
     "description": "Custom IPTV repository with M3U support.",
     "icon": "https://your-image-url.com/icon.png",
     "type": "m3u",
