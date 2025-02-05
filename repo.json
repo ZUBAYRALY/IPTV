@@ -1,0 +1,17 @@
+
+{
+  "repo": {
+    "name": "My IPTV Repo",
+    "version": "1.0",
+    "url": "https://github.com/your-username/cloud-stream-iptv-extension",
+    "description": "Custom IPTV repository with M3U support.",
+    "icon": "https://your-image-url.com/icon.png",
+    "type": "m3u",
+    "category": [
+      {
+        "name": "All Channels",
+        "url": "http://xtv.ooo:8080/get.php?username=Shaukat12&password=IPTV123&type=m3u_plus&output=ts"
+      }
+    ]
+  }
+}
